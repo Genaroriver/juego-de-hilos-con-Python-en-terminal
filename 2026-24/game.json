@@ -1,0 +1,15 @@
+{
+    "historias": [
+        {
+            "autor": "genaro",
+            "historia": "aventura",
+            "enemigo": {
+                "nombre": "carita feliz",
+                "vida": 150,
+                "vida_max": 150,
+                "ataque": 1,
+                "defensa": 2
+            }
+        }
+    ]
+}
